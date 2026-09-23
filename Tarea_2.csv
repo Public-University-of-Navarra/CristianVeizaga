@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet","MPN"
+"C1,C2,C3","3","100n","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_01005_0402Metric","","GRM188R71C104KA01D"
+"J1","1","54-00166","","","","","${EXCLUDE_FROM_POS_FILES}","Snapeda:CONN3_54-00166_TEN","54-00166","54-00166"
+"J2,J3","2","PPTC241LFBN-RC","","","","","${EXCLUDE_FROM_POS_FILES}","Snapeda:CONN24_PPTC241LFBN-RC_SUL","PPTC241LFBN-RC","PPTC241LFBN-RC"
+"R1,R2,R3","3","1k","","","","","${EXCLUDE_FROM_POS_FILES}","Resistor_SMD:R_01005_0402Metric","","RC0603FR-071KL"
+"U2","1","TPS75318QPWPRQ1","","","","","${EXCLUDE_FROM_POS_FILES}","Snapeda:PWP20_3P38X2P4_TEX-L","TPS75318QPWPRQ1","TPS75318QPWPRQ1"
+"U3","1","MIMXRT685SFVKB","","","","","${EXCLUDE_FROM_POS_FILES}","Snapeda:VFBGA176_SOT1850-1_NXP-L","MIMXRT685SFVKB","MIMXRT685SFVKB"
