@@ -6567,6 +6567,17 @@
 				)
 			)
 		)
+		(property "MPN" "PPTC241LFBN-RC"
+			(at 80.01 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "2b3d7b5d-30e6-4a68-a580-64ede0472633")
 		)
@@ -7312,6 +7323,17 @@
 				)
 			)
 		)
+		(property "MPN" "PPTC241LFBN-RC"
+			(at 54.61 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "8e42b66e-cce2-418e-ae0c-26e1ba005234")
 		)
@@ -7448,6 +7470,17 @@
 		(property "Description" ""
 			(at 134.62 34.29 0)
 			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MIMXRT685SFVKB"
+			(at 134.62 34.29 0)
+			(hide yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
