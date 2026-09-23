@@ -1345,6 +1345,17 @@
 				)
 			)
 		)
+		(property "MPN" "54-00166"
+			(at 62.23 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "af216980-d1ae-4b43-be2d-5c14faa19439")
 		)
@@ -1500,6 +1511,17 @@
 		(property "Description" ""
 			(at 118.11 62.23 0)
 			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TPS75318QPWPRQ1"
+			(at 118.11 62.23 90)
+			(hide yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
